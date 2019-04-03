@@ -1,3 +1,38 @@
-h1 {
-  color: red;
+/* div {
+background-color: #d9d9d9
+} */
+
+table {
+  font-family: Arial
+}
+
+footer {
+  font-size: 14
+}
+
+li {
+  display: inline-block;
+  font-size: 20;
+  padding: 10px;
+}
+
+#logo{
+  background-color: #008ae6;
+  position: relative;
+  
+}
+
+#menu{
+  background-color: #008ae6;
+  position: relative;
+}
+
+#laptopimg{
+  width: 30%;
+  display:inline-block;
+}
+
+#laptopdesc{
+  width: 70%;
+  display:inline-block;
 }
